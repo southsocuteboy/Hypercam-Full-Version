@@ -241,4 +241,4 @@ This repository serves as the official landing page for HyperCam. The software i
 **Get the most recent version of HyperCam today!**
 
 ---
-**Last updated:** 2026-10-25 00:45:33 UTC
+**Last updated:** 2026-10-25 05:36:43 UTC
